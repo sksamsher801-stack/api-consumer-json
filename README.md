@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Q2: API Consumer and JSON Report
 
 A Python client that fetches users, posts, and comments from JSONPlaceholder, summarizes the data, and saves the result in report.json.
@@ -36,3 +37,6 @@ The program creates or replaces report.json in this folder. The report includes:
 ## Submission
 
 Include test.py, report.json, this README, requirements.txt, and a screenshot of the console output.
+=======
+# api-consumer-json
+>>>>>>> 986a287c5cf5ebbb9408fc3410fb3e36f713714b
